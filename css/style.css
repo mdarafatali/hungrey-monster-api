@@ -44,8 +44,25 @@ body{
     align-content: center;
     width: 40%;
   } */
+
+  .menu{
+    float: left;
+  }
   .menu a{
     font-size: 20px;
+    padding: 10px;
+    margin: 30px;
+    font-weight: 700;
+  }
+
+  .menu img{
+    height: 100px;
+    width: 100px;
+  }
+
+  .logo{
+    padding-right: 600px;
+    padding-left: 40px;
   }
   
   .food-name{
